@@ -5,3 +5,4 @@ sudo pacman -S quadrapassel #Install game
 sudo pacman -S pulseaudio-bluetooth #Install if bluetooth is not working properly
 sudo pacman -S bucklespring #Install a fun keyboard tool
 sudo pacman -S qbitorrent #Install torrent client
+sudo pacman -S scrcpy #Install screen mirroring client for android using adb
