@@ -1,5 +1,5 @@
 sudo pacman -Syu #Upgrade all packages
-yay -S google-chrome archlinux-tweak-tool-git arcolinux-app-glade-git microsoft-edge-stable-bin oneko peazip-qt-bin ttf-anka-coder-condensed update-grub cloudflare-warp-bin #Install essential tools
+yay -S archlinux-tweak-tool-git arcolinux-app-glade-git microsoft-edge-stable-bin oneko peazip-qt-bin ttf-anka-coder-condensed update-grub cloudflare-warp-bin #Install essential tools
 yay -S visual-studio-code-bin #Installs visual studio code from AUR
 yay -S google-chrome #Installs google chrome on arch linux using Yay package manager
 sudo pacman -S vlc #Install essentials tools using pacman
