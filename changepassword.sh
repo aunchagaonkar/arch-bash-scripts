@@ -1,4 +1,5 @@
 #!/bin/bash
+#Description - This script makes it easy to change password of a specific user in linux
 read -p "Enter the Username (whose password you want to change): " username
 if id "$username" &>/dev/null; then
     echo "Please enter the new password for $username:" 
