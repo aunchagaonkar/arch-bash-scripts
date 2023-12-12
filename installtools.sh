@@ -3,8 +3,9 @@ yay -S archlinux-tweak-tool-git arcolinux-app-glade-git microsoft-edge-stable-bi
 yay -S ttf-anka-coder-condensed #Installs a best looking font using Yay Package manager
 yay -S visual-studio-code-bin #Installs visual studio code from AUR
 yay -S google-chrome #Installs google chrome on arch linux using Yay package manager
+sudo pacman -Sy evince #Installs pdf reader
 sudo pacman -S vlc #Install essentials tools using pacman
-sudo pacman -S quadrapassel #Install game
+sudo pacman -S quadrapassel #Install game of Tetris on linux
 sudo pacman -S pulseaudio-bluetooth #Install if bluetooth is not working properly
 sudo pacman -S bucklespring #Install a fun keyboard tool
 sudo pacman -S qbitorrent #Install torrent client
