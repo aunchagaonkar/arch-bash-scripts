@@ -4,6 +4,7 @@ yay -S microsoft-edge-stable-bin #Installs Microsoft Edge Browser
 yay -S ttf-anka-coder-condensed #Installs a best looking font using Yay Package manager
 yay -S visual-studio-code-bin #Installs visual studio code from AUR
 yay -S google-chrome #Installs google chrome on arch linux using Yay package manager
+yay -S easystroke #Installs a mouse gesture control application
 sudo pacman -Sy evince #Installs pdf reader
 sudo pacman -S vlc #Install essentials tools using pacman
 sudo pacman -S quadrapassel #Install game of Tetris on linux
